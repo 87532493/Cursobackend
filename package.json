@@ -1,0 +1,11 @@
+{
+  "name": "curso",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "miguel chamorro",
+  "license": "MIT",
+  "private": false,
+  "devDependencies": {
+    "nodemon": "^2.0.22"
+  }
+}
