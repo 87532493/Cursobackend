@@ -6,5 +6,5 @@ function requestController(){
 const server = http.createServer(requestController)
 const PORT = process.env.PORT
 server.listen(PORT, function (){
-    console.log("aplicacion corriendo en pueto"+ PORT)
+    console.log("aplicacion corriendo en pueto:"+ PORT)
 })
